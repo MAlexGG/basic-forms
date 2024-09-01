@@ -1,0 +1,7 @@
+.header {
+    width: 100vw;
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(226, 248, 241);
+    padding-right: 10px;
+}

@@ -1,0 +1,16 @@
+.ctInput {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    align-items: flex-start;
+    margin: 10px;
+}
+
+.input {
+    width: 100%;
+    border: 2px solid rgb(226, 248, 241);
+    border-radius: 20px;
+    box-shadow: inset 0px 4px 10px -6px rgba(1, 63, 60, 0.45);
+    height: 40px;
+    padding-left: 20px;
+}
